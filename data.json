@@ -65,7 +65,7 @@
         "items": "5-10 Minute Video, Bonus: basic color correction and audio mixing",
         "rate_initial": "₹2500",
         "rate_revised": "₹3000",
-        "current": "yes"
+        "current": "no"
       },
       "Growth": {
         "basic_shorts_count": 7,
@@ -74,7 +74,7 @@
         "items": "Avg. 10 Minute Video, Shorts Editing, Bonus: 1 round of revisions + basic color correction and audio mixing",
         "rate_initial": "₹3000",
         "rate_revised": "₹3400",
-        "current": "no"
+        "current": "yes"
       },
       "Pro": {
         "basic_shorts_count": 5,
