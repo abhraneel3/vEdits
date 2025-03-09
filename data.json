@@ -126,7 +126,13 @@
         "rate_initial": "₹200",
         "rate_revised": "₹300",
         "current": "no"
-      }
+      },
+      "Add-on":{
+      "description": "Extend video Length to 15 minutes Avg.",
+      "rate_initial": "₹200",
+      "rate_revised": "₹200",
+      "current": "no"
+    }
     },
     "notes": [
       "Creative shorts tailored to trends with scripting and videography",
