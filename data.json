@@ -50,45 +50,45 @@
         "creative_shorts_count": 0,
         "long_video_count": 4,
         "items": "5-10 Minute Video, Bonus: basic color correction and audio mixing",
-        "rate_initial": "₹3000",
-        "rate_revised": "₹2500",
-        "current":"yes"
+        "rate_initial": "₹2500",
+        "rate_revised": "₹3000",
+        "current": "yes"
       },
       "Growth": {
         "basic_shorts_count": 7,
         "creative_shorts_count": 0,
         "long_video_count": 4,
         "items": "Avg. 10 Minute Video, Shorts Editing, Bonus: 1 round of revisions + basic color correction and audio mixing",
-        "rate_initial": "₹3400",
-        "rate_revised": "₹3000"
+        "rate_initial": "₹3000",
+        "rate_revised": "₹3400"
       },
       "Pro": {
         "basic_shorts_count": 5,
         "creative_shorts_count": 6,
         "long_video_count": 6,
         "items": "10-15 Minute Video, Basic + Creative Shorts Editing, Bonus: 2 rounds of revisions + basic color correction and audio mixing",
-        "rate_initial": "₹7000",
-        "rate_revised": "₹5000"
+        "rate_initial": "₹5000",
+        "rate_revised": "₹7000"
       },
       "Enterprise": {
         "basic_shorts_count": 5,
         "creative_shorts_count": 10,
         "long_video_count": 8,
         "items": "Avg. 20 Minute Video, Basic + Creative Shorts Editing, Bonus: 3 rounds of revisions + basic color correction and audio mixing",
-        "rate_initial": "₹12000",
-        "rate_revised": "₹10000"
+        "rate_initial": "₹10000",
+        "rate_revised": "₹12000"
       }
     },
     "single_editing": {
       "Long_Video": {
         "description": "Basic color correction and audio mixing",
-        "rate_initial": "₹800",
-        "rate_revised": "₹600/10min"
+        "rate_initial": "₹600/10min",
+        "rate_revised": "₹800"
       },
       "Shorts": {
         "description": "Basic color correction and audio mixing",
-        "rate_initial": "₹300",
-        "rate_revised": "₹200"
+        "rate_initial": "₹200",
+        "rate_revised": "₹300"
       }
     },
     "notes": [
