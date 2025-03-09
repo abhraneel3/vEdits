@@ -51,7 +51,8 @@
         "long_video_count": 4,
         "items": "5-10 Minute Video, Bonus: basic color correction and audio mixing",
         "rate_initial": "₹3000",
-        "rate_revised": "₹2500"
+        "rate_revised": "₹2500",
+        "current":"yes"
       },
       "Growth": {
         "basic_shorts_count": 7,
