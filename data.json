@@ -1,11 +1,27 @@
 {
   "active": {
     "Package Name": "Launch",
-    "start": "4-Feb-2025",
-    "end": "4-Mar-2025",
+    "start": "5-Mar-2025",
+    "end": "5-Apr-2025",
     "Paid": "1900",
     "Due": "600"
   },
+  "Completed": [
+    {
+      "Package": "Long_Video",
+      "start": "29-Jan-2025",
+      "end": "31-Jan-2025",
+      "Paid": "600",
+      "Due": "0"
+    },
+    {
+      "Package": "Launch",
+      "start": "4-Feb-2025",
+      "end": "4-Mar-2025",
+      "Paid": "2500",
+      "Due": "0"
+    }
+  ],
   "Add-on": [
     {
       "description": "Extend video Length to 15 minutes Avg.",
@@ -65,7 +81,7 @@
         "items": "5-10 Minute Video, Bonus: basic color correction and audio mixing",
         "rate_initial": "₹2500",
         "rate_revised": "₹3000",
-        "current": "no"
+        "current": "yes"
       },
       "Growth": {
         "basic_shorts_count": 7,
@@ -74,7 +90,7 @@
         "items": "Avg. 10 Minute Video, Shorts Editing, Bonus: 1 round of revisions + basic color correction and audio mixing",
         "rate_initial": "₹3000",
         "rate_revised": "₹3400",
-        "current": "yes"
+        "current": "no"
       },
       "Pro": {
         "basic_shorts_count": 5,
@@ -125,26 +141,22 @@
       {
         "date": "15-Feb-2025",
         "mode": "Online",
-        "amount": "1",
-        "upi_trans_id": "406334984494"
+        "amount": "1900"
       },
       {
         "date": "16-Feb-2025",
         "mode": "Online",
-        "amount": "499",
-        "upi_trans_id": "863169175452"
+        "amount": "499"
       },
       {
         "date": "6-Mar-2025",
         "mode": "Online",
-        "amount": "1000",
-        "upi_trans_id": "543135703233"
+        "amount": "1000"
       },
       {
         "date": "6-Mar-2025",
         "mode": "Online",
-        "amount": "1000",
-        "upi_trans_id": "543119219268"
+        "amount": "1000"
       }
     ]
   }
