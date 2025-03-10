@@ -35,8 +35,8 @@
   },
   "single_editing": {
     "Long Video": {
-      "description": "Basic color correction and audio mixing",
-      "rate_initial": "₹600/10min",
+      "description": "Basic color correction and audio mixing.",
+      "rate_initial": "₹600",
       "rate_revised": "₹800"
     },
     "Shorts": {
