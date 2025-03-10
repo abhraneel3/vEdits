@@ -1,5 +1,5 @@
 {
-  "video_creation": [
+  "video": [
     {
       "date": "31-Jan-2025",
       "title": "Winter Veg Thali Lovers এর জন্য সহজ ও স্বাদযুক্ত রেসিপি! #vegthali #vlog",
@@ -14,7 +14,7 @@
     },
     {
       "date": "16-Feb-2025",
-      "title": "বাড়িতেই বাটার চিকেন বানানোর সেরা উপায় | Butter Chicken Recipe in Bengali",
+      "title": "বাড়িতেই বাটার চিকেন বানানোর সেরা উপায় | Butter Chicken Recipe in Bengali",
       "link": "https://youtu.be/YF_F6u_pIRo",
       "duration": "13:29"
     },
@@ -26,108 +26,21 @@
     },
     {
       "date": "26-Feb-2025",
-      "title": "সহজ উপায়ে ঘরে কুলের আচার তৈরি #recipe #bengalirecipe",
+      "title": "সহজ উপায়ে ঘরে কুলের আচার তৈরি #recipe #bengalirecipe",
       "link": "https://youtu.be/yjY1ogi1R-A",
       "duration": "10:15"
     },
     {
       "date": "5-Mar-2025",
       "title": "শিব রাত্রি Vlog | Moumita Vlog",
-      "link": "https://youtu.be/WiYgUKURqi",
+      "link": "https://youtu.be/WiYgUKURqiA",
       "duration": "8:26"
     },
     {
       "date": "9-Mar-2025",
       "title": "চিকেন বিরিয়ানি রেসিপি: রেস্টুরেন্ট স্টাইল - সহজ উপায় #chickenbiryani",
-      "link": "https://youtu.be/floDicVKso",
+      "link": "https://youtu.be/floDicVKsoA",
       "duration": "12:15"
     }
-  ],
-  "editing_packages": {
-    "monthly_packages": {
-      "Launch": {
-        "basic_shorts_count": 0,
-        "creative_shorts_count": 0,
-        "long_video_count": 4,
-        "items": "5-10 Minute Video, Bonus: basic color correction and audio mixing",
-        "rate_initial": "₹2500",
-        "rate_revised": "₹3000"
-      },
-      "Growth": {
-        "basic_shorts_count": 7,
-        "creative_shorts_count": 0,
-        "long_video_count": 4,
-        "items": "Avg. 10 Minute Video, Shorts Editing, Bonus: 1 round of revisions + basic color correction and audio mixing",
-        "rate_initial": "₹3000",
-        "rate_revised": "₹3400"
-      },
-      "Pro": {
-        "basic_shorts_count": 5,
-        "creative_shorts_count": 6,
-        "long_video_count": 6,
-        "items": "10-15 Minute Video, Basic + Creative Shorts Editing, Bonus: 2 rounds of revisions + basic color correction and audio mixing",
-        "rate_initial": "₹5000",
-        "rate_revised": "₹7000"
-      },
-      "Enterprise": {
-        "basic_shorts_count": 5,
-        "creative_shorts_count": 10,
-        "long_video_count": 8,
-        "items": "Avg. 20 Minute Video, Basic + Creative Shorts Editing, Bonus: 3 rounds of revisions + basic color correction and audio mixing",
-        "rate_initial": "₹10000",
-        "rate_revised": "₹12000"
-      }
-    },
-    "single_editing": {
-      "Long Video": {
-        "description": "Basic color correction and audio mixing",
-        "rate_initial": "₹600/10min",
-        "rate_revised": "₹800"
-      },
-      "Shorts": {
-        "description": "Basic color correction and audio mixing",
-        "rate_initial": "₹200",
-        "rate_revised": "₹300"
-      }
-    },
-    "Add-on":{
-      "description": "Extend video Length to 15 minutes Avg.",
-      "rate_initial": "₹200",
-      "rate_revised": "₹200"
-    },
-    "notes": [
-      "Creative shorts tailored to trends with scripting and videography",
-      "All videos optimized for search engine ranking",
-      "Videos 12-20 minutes cost double the standard fee"
-    ],
-    "contact": {
-      "name": "Soumya Deb",
-      "phone": "+91 9734748101",
-      "email": "service.soumyadeb@gmail.com"
-    }
-  },
-  "payments": {
-    "transactions": [
-      {
-        "date": "15-Feb-2025",
-        "mode": "Online",
-        "amount": "1900"
-      },
-      {
-        "date": "16-Feb-2025",
-        "mode": "Online",
-        "amount": "499"
-      },
-      {
-        "date": "6-Mar-2025",
-        "mode": "Online",
-        "amount": "1000"
-      },
-      {
-        "date": "6-Mar-2025",
-        "mode": "Online",
-        "amount": "1000"
-      }
-    ]
-  }
+  ]
 }
