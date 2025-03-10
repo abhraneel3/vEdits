@@ -105,7 +105,7 @@
       }
     },
     "single_editing": {
-      "Long_Video": {
+      "Long Video": {
         "description": "Basic color correction and audio mixing",
         "rate_initial": "₹600/10min",
         "rate_revised": "₹800"
@@ -114,12 +114,12 @@
         "description": "Basic color correction and audio mixing",
         "rate_initial": "₹200",
         "rate_revised": "₹300"
-      },
-      "Add-on":{
+      }
+    },
+    "Add-on":{
       "description": "Extend video Length to 15 minutes Avg.",
       "rate_initial": "₹200",
       "rate_revised": "₹200"
-    }
     },
     "notes": [
       "Creative shorts tailored to trends with scripting and videography",
