@@ -1,5 +1,4 @@
 {
-  "transactions": [
     {
       "date": "15-Feb-2025",
       "mode": "Online",
@@ -20,5 +19,4 @@
       "mode": "Online",
       "amount": "1000"
     }
-  ]
 }
