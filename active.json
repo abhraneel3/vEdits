@@ -1,10 +1,10 @@
 {
   "Current": {
-    "Package": "",
-    "start": "",
-    "end": "",
-    "rate": "",
-    "addon": "n",
+    "Package": "Launch",
+    "start": "5-Mar-2025",
+    "end": "5-Apr-2025",
+    "rate": "₹2500",
+    "addon": "y",
     "disc": "0"
   },
   "Completed": [
@@ -15,14 +15,6 @@
       "rate": "₹600",
       "addon": "n",
       "disc": "0"
-    },
-    {
-      "Package": "Shorts",
-      "start": "29-Jan-2025",
-      "end": "31-Jan-2025",
-      "rate": "₹200",
-      "addon": "n",
-      "disc": "50"
     },
     {
       "Package": "Launch",
