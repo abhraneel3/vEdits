@@ -4,7 +4,7 @@
     "start": "5-Mar-2025",
     "end": "5-Apr-2025",
     "rate": "₹2500",
-    "addon": "n",
+    "addon": "y",
     "disc": "0"
   },
   "Completed": [
@@ -13,8 +13,8 @@
       "start": "29-Jan-2025",
       "end": "31-Jan-2025",
       "rate": "₹600",
-      "addon": "y",
-      "disc": "10"
+      "addon": "n",
+      "disc": "0"
     },
     {
       "Package": "Launch",
