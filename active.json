@@ -13,16 +13,8 @@
       "start": "29-Jan-2025",
       "end": "31-Jan-2025",
       "rate": "₹600",
-      "addon": "y",
-      "disc": "100"
-    },
-    {
-      "Package": "Shorts",
-      "start": "29-Jan-2025",
-      "end": "31-Jan-2025",
-      "rate": "₹200",
-      "addon": "y",
-      "disc": "10"
+      "addon": "n",
+      "disc": "n"
     },
     {
       "Package": "Launch",
