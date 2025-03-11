@@ -5,7 +5,7 @@
     "end": "5-Apr-2025",
     "rate": "₹2500",
     "addon": "y",
-    "disc": "10"
+    "disc": "0"
   },
   "Completed": [
     {
@@ -15,14 +15,6 @@
       "rate": "₹600",
       "addon": "n",
       "disc": "0"
-    },
-    {
-      "Package": "Growth",
-      "start": "29-Jan-2025",
-      "end": "31-Jan-2025",
-      "rate": "₹600",
-      "addon": "y",
-      "disc": "100"
     },
     {
       "Package": "Launch",
