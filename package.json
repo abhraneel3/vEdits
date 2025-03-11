@@ -4,7 +4,7 @@
       "basic_shorts_count": 0,
       "creative_shorts_count": 0,
       "long_video_count": 4,
-      "items": "5-10 Minute Video, Bonus: basic color correction and audio mixing",
+      "items": "5-10 Minute Video, Bonus: basic color correction and audio mixing*",
       "rate_initial": "₹2500",
       "rate_revised": "₹3000"
     },
@@ -12,7 +12,7 @@
       "basic_shorts_count": 7,
       "creative_shorts_count": 0,
       "long_video_count": 4,
-      "items": "Avg. 10 Minute Video, Shorts Editing, Bonus: 1 round of revisions + basic color correction and audio mixing",
+      "items": "Avg. 10 Minute Video, Shorts Editing, Bonus: 1 round of revisions + basic color correction and audio mixing*",
       "rate_initial": "₹3000",
       "rate_revised": "₹3400"
     },
@@ -20,7 +20,7 @@
       "basic_shorts_count": 5,
       "creative_shorts_count": 6,
       "long_video_count": 6,
-      "items": "10-15 Minute Video, Basic + Creative Shorts Editing, Bonus: 2 rounds of revisions + basic color correction and audio mixing",
+      "items": "15-20 Minute Video, Basic + Creative Shorts Editing, Bonus: 2 rounds of revisions + basic color correction and audio mixing",
       "rate_initial": "₹5000",
       "rate_revised": "₹7000"
     },
@@ -52,7 +52,7 @@
   "notes": [
     "Creative shorts tailored to trends with scripting and videography",
     "All videos optimized for search engine ranking",
-    "Videos 12-20 minutes cost double the standard fee"
+    "*Videos duration exceed 15 minutes cost double the standard fee"
   ],
   "contact": {
     "name": "Soumya Deb",
