@@ -1648,7 +1648,7 @@
             document.getElementById('totalWatchTime').textContent = `${Math.round(totalMinutes)} mins`;
 
             // Calculate video categories (example categories)
-            const vlogCount = videoData.video_creation.filter(v =>
+            const cookingCount = videoData.video_creation.filter(v =>
                 v.title.toLowerCase().includes('recipe') ||
                 v.title.toLowerCase().includes('thali') ||
                 v.title.toLowerCase().includes('food') ||
@@ -1656,9 +1656,9 @@
                 v.title.toLowerCase().includes('kitchen') ||
                 v.title.toLowerCase().includes('cook')
             ).length;
-            const cookingCount = videoData.video_creation.filter(v =>
+            const vlogCount = videoData.video_creation.filter(v =>
                 v.title.toLowerCase().includes('vlog') ||
-                v.title.toLowerCase().includes('❤️')
+                v.title.toLowerCase().includes('puja')
             ).length;
 
             document.getElementById('cookingVideos').textContent = cookingCount;
